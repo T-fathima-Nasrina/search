@@ -1,0 +1,4086 @@
+[
+	{
+		"Key": "KEB63LUqWDKAnovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR49975",
+		"BasePrice": "USD43.00",
+		"ApproximateBasePrice": "LKR12900",
+		"Taxes": "LKR37075",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKANmvvAAAAAA==",
+				"TotalPrice": "LKR49975",
+				"BasePrice": "USD43.00",
+				"ApproximateTotalPrice": "LKR49975",
+				"ApproximateBasePrice": "LKR12900",
+				"Taxes": "LKR37075",
+				"PlatingCarrier": "W2",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKARmvvAAAAAA==",
+						"TravelTime": "P0DT4H30M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "X",
+								"FareInfoRef": {
+									"KEB63LUqWDKAMmvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAMmvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKA+kvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAMmvvAAAAAA==",
+										"FareBasis": "XOWLK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR12900",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5MOGLeyrgi0rRwY2nbZ/59B2goJH2LHjpJ475XaivDk/9HgaFZF+gQgwQSGrUfrSIg1O0gVbK91GlEXaGd+KlllKVPhHK5GiC5qjTKwlxrm3jKWtcaCfBZZmoGfiA+T6TYs9+fypnOSJ2vEC+zLL9EUKpg="
+										},
+										"BaggageAllowance": "NumberOfPieces 1",
+										"BrandID": "",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAbpvvAAAAAA==",
+											"Name": "",
+											"Titles": [],
+											"Texts": []
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKA+kvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "W2",
+									"FlightNumber": "1888",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T13:45:00.000+05:30",
+									"ArrivalTime": "2024-11-28T16:45:00.000+04:00",
+									"FlightTime": "270",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "320",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"PolledAvailabilityOption": "No polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "A",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKAoovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR57693",
+		"BasePrice": "USD122.00",
+		"ApproximateBasePrice": "LKR36400",
+		"Taxes": "LKR21293",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAVmvvAAAAAA==",
+				"TotalPrice": "LKR57693",
+				"BasePrice": "USD122.00",
+				"ApproximateTotalPrice": "LKR57693",
+				"ApproximateBasePrice": "LKR36400",
+				"Taxes": "LKR21293",
+				"PlatingCarrier": "FZ",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAZmvvAAAAAA==",
+						"TravelTime": "P0DT5H5M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "H",
+								"FareInfoRef": {
+									"KEB63LUqWDKAUmvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAUmvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAAlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAUmvvAAAAAA==",
+										"FareBasis": "HOLP7LK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR36400",
+										"FareRuleKey": {
+											"value": "gws-eJxNjtEOwjAIRT9mue8Xqpl767baLFmtPmhiffD/P0PaaiIJcOEQwHuv1IMIj/7fBryH+EJ+rECGmofnAlElIVYVkCrYruk2pl3Ql+jJUG64Z2mDkVEsIbigHVVDaXG9LMb6ZppAPY0qrYGfOG8m8xzulLTTObppmssXcoT9+gHWaSv0"
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAbpvvAAAAAA==",
+											"Name": "",
+											"Titles": [],
+											"Texts": []
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAAlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "FZ",
+									"FlightNumber": "580",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T09:15:00.000+05:30",
+									"ArrivalTime": "2024-11-28T12:50:00.000+04:00",
+									"FlightTime": "305",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "73H",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"PolledAvailabilityOption": "No polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "A",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKApovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR62793",
+		"BasePrice": "USD139.00",
+		"ApproximateBasePrice": "LKR41500",
+		"Taxes": "LKR21293",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAqovvAAAAAA==",
+				"TotalPrice": "LKR62793",
+				"BasePrice": "USD139.00",
+				"ApproximateTotalPrice": "LKR62793",
+				"ApproximateBasePrice": "LKR41500",
+				"Taxes": "LKR21293",
+				"PlatingCarrier": "FZ",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAuovvAAAAAA==",
+						"TravelTime": "P0DT5H5M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAbmvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAbmvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAClvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAbmvvAAAAAA==",
+										"FareBasis": "KOLP7LK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR41500",
+										"FareRuleKey": {
+											"value": "gws-eJxNjkEKAjEMRQ8z/P1PqoyzqzO1Cq1VUMFx4f2PYdoqGEjykxeSeO+VuhHh1v/bgPcQXyiPBShQ8/CcIW4iIVatIFWQLvk65iToS3RnqDTcs7TByCiWEFzQjqphbXE5z8b6ZppAPY0qrYGfOJxMln24U3Kic3TTdDt+IUfYrx/fASwH"
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAbpvvAAAAAA==",
+											"Name": "",
+											"Titles": [],
+											"Texts": []
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAClvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "FZ",
+									"FlightNumber": "570",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T01:35:00.000+05:30",
+									"ArrivalTime": "2024-11-28T05:10:00.000+04:00",
+									"FlightTime": "305",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "73H",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"PolledAvailabilityOption": "No polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "A",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAwovvAAAAAA==",
+						"TravelTime": "P0DT5H5M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAbmvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAbmvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAElvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAbmvvAAAAAA==",
+										"FareBasis": "KOLP7LK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR41500",
+										"FareRuleKey": {
+											"value": "gws-eJxNjkEKAjEMRQ8z/P1PqoyzqzO1Cq1VUMFx4f2PYdoqGEjykxeSeO+VuhHh1v/bgPcQXyiPBShQ8/CcIW4iIVatIFWQLvk65iToS3RnqDTcs7TByCiWEFzQjqphbXE5z8b6ZppAPY0qrYGfOJxMln24U3Kic3TTdDt+IUfYrx/fASwH"
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAbpvvAAAAAA==",
+											"Name": "",
+											"Titles": [],
+											"Texts": []
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAElvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "FZ",
+									"FlightNumber": "550",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T17:20:00.000+05:30",
+									"ArrivalTime": "2024-11-28T20:55:00.000+04:00",
+									"FlightTime": "305",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "73H",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"PolledAvailabilityOption": "No polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "A",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKAyovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR62793",
+		"BasePrice": "USD139.00",
+		"ApproximateBasePrice": "LKR41500",
+		"Taxes": "LKR21293",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAcmvvAAAAAA==",
+				"TotalPrice": "LKR62793",
+				"BasePrice": "USD139.00",
+				"ApproximateTotalPrice": "LKR62793",
+				"ApproximateBasePrice": "LKR41500",
+				"Taxes": "LKR21293",
+				"PlatingCarrier": "FZ",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAgmvvAAAAAA==",
+						"TravelTime": "P0DT7H0M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAbmvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAbmvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAGlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAbmvvAAAAAA==",
+										"FareBasis": "KOLP7LK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR41500",
+										"FareRuleKey": {
+											"value": "gws-eJxNjkEKAjEMRQ8z/P1PqoyzqzO1Cq1VUMFx4f2PYdoqGEjykxeSeO+VuhHh1v/bgPcQXyiPBShQ8/CcIW4iIVatIFWQLvk65iToS3RnqDTcs7TByCiWEFzQjqphbXE5z8b6ZppAPY0qrYGfOJxMln24U3Kic3TTdDt+IUfYrx/fASwH"
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAbpvvAAAAAA==",
+											"Name": "",
+											"Titles": [],
+											"Texts": []
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAGlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "FZ",
+									"FlightNumber": "1026",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T10:30:00.000+05:30",
+									"ArrivalTime": "2024-11-28T16:00:00.000+04:00",
+									"FlightTime": "420",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "7M9",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"PolledAvailabilityOption": "No polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"NumberOfStops": "1",
+									"AvailabilitySource": "A",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKAzovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR63099",
+		"BasePrice": "USD100.00",
+		"ApproximateBasePrice": "LKR29900",
+		"Taxes": "LKR33199",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAjmvvAAAAAA==",
+				"TotalPrice": "LKR63099",
+				"BasePrice": "USD100.00",
+				"ApproximateTotalPrice": "LKR63099",
+				"ApproximateBasePrice": "LKR29900",
+				"Taxes": "LKR33199",
+				"PlatingCarrier": "UL",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAnmvvAAAAAA==",
+						"TravelTime": "P0DT4H40M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKAimvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAimvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKALlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAimvvAAAAAA==",
+										"FareBasis": "NXOWP9LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR29900",
+										"FareRuleKey": {
+											"value": "gws-eJxNjsEOwiAQRD+mmfvuIlFvWLAxKaIHG9uL//8ZHUATJ9mdgUeWDSGY2EFVfPjXgM+wZJQlAgXGSusIFQrK0wYRY1gf7+c5z+hD7ERUGu6u7WFyyWiYZLKOqrC1Hu8jWZ/MUtSvUSMv8AvXG2O5pFeexcQ58d7HL5MjuOoOxRMrzQ=="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1308422",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAppvvAAAAAA==",
+											"Name": "Economy Promo Restricted",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Econ promo Restricted"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "Econ promo"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Promo Restricted includes:\n\n• Hand baggage 1 x 7kgs\n• Checked baggage included\n• Changes permitted\n• Refunds \n- permitted before departure\n- Not permitted after departure\n• Onboard Meals and refreshments included \n• Seat selection at a fee (Exist Seat and Advance Seat Reservation)\n\nPlease refer to fare rules for full conditions"
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Econ promo Restricted"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKALlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "UL",
+									"FlightNumber": "225",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T18:40:00.000+05:30",
+									"ArrivalTime": "2024-11-28T21:50:00.000+04:00",
+									"FlightTime": "280",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "333",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKA0ovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR72535",
+		"BasePrice": "USD128.00",
+		"ApproximateBasePrice": "LKR38200",
+		"Taxes": "LKR34335",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAqmvvAAAAAA==",
+				"TotalPrice": "LKR72535",
+				"BasePrice": "USD128.00",
+				"ApproximateTotalPrice": "LKR72535",
+				"ApproximateBasePrice": "LKR38200",
+				"Taxes": "LKR34335",
+				"PlatingCarrier": "AI",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAvmvvAAAAAA==",
+						"TravelTime": "P0DT12H20M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "U",
+								"FareInfoRef": {
+									"KEB63LUqWDKApmvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKApmvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKANlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKApmvvAAAAAA==",
+										"FareBasis": "UU3YXSCM",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR38200",
+										"FareRuleKey": {
+											"value": "gws-eJxNjsEOwjAIhh9m+e9AZ7ZjNzBqtvWiTdaL7/8Y0lYTSYAfPgLEGIVkZKZL/LcB72F5IGUFEsTdzhUsMxHYqwIiYeQcyvnUA32JzI5Swz1zG7Rg4gk66dhRNZQW9Vid9c3kAvU0qvQGfuJ6d5kWe+3bzSiE+vC+fSFN8F8/8l8sMA=="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1565976",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAfpvvAAAAAA==",
+											"Name": "ECO VALUE",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Eco Value"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOVALU"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Eco Value"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKANlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "AI",
+									"FlightNumber": "282",
+									"Origin": "CMB",
+									"Destination": "DEL",
+									"DepartureTime": "2024-11-28T08:10:00.000+05:30",
+									"ArrivalTime": "2024-11-28T11:50:00.000+05:30",
+									"FlightTime": "220",
+									"Distance": "1489",
+									"ETicketability": "Yes",
+									"Equipment": "321",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "P",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "U",
+								"FareInfoRef": {
+									"KEB63LUqWDKApmvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKApmvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAPlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKApmvvAAAAAA==",
+										"FareBasis": "UU3YXSCM",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR38200",
+										"FareRuleKey": {
+											"value": "gws-eJxNjsEOwjAIhh9m+e9AZ7ZjNzBqtvWiTdaL7/8Y0lYTSYAfPgLEGIVkZKZL/LcB72F5IGUFEsTdzhUsMxHYqwIiYeQcyvnUA32JzI5Swz1zG7Rg4gk66dhRNZQW9Vid9c3kAvU0qvQGfuJ6d5kWe+3bzSiE+vC+fSFN8F8/8l8sMA=="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1565976",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAfpvvAAAAAA==",
+											"Name": "ECO VALUE",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Eco Value"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOVALU"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Eco Value"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAPlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "AI",
+									"FlightNumber": "915",
+									"Origin": "DEL",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T16:25:00.000+05:30",
+									"ArrivalTime": "2024-11-28T19:00:00.000+04:00",
+									"FlightTime": "245",
+									"Distance": "1368",
+									"ETicketability": "Yes",
+									"Equipment": "788",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "P",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKA1ovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR82693",
+		"BasePrice": "USD216.00",
+		"ApproximateBasePrice": "LKR64400",
+		"Taxes": "LKR18293",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKA2ovvAAAAAA==",
+				"TotalPrice": "LKR82693",
+				"BasePrice": "USD216.00",
+				"ApproximateTotalPrice": "LKR82693",
+				"ApproximateBasePrice": "LKR64400",
+				"Taxes": "LKR18293",
+				"PlatingCarrier": "EK",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKA5ovvAAAAAA==",
+						"TravelTime": "P0DT4H30M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "L",
+								"FareInfoRef": {
+									"KEB63LUqWDKAymvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAymvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKARlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAymvvAAAAAA==",
+										"FareBasis": "LAAOPLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR64400",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5PCxrHdWoTUUjgMwS78/xmkHUhESuzEkRPvvVIPIjz6/xjwHlJGfSxAhVrG1wyVkYRYt4FUQQnhdi9ZsJvoyaTa5R2lL0YX1QDJnXWXWmDrdbnO3as5kxS002jUBviRdDFaQ1xLXpXOTUqOz6/ICfbrB9PAK+4="
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1354479",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKArpvvAAAAAA==",
+											"Name": "Economy Saver",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Saver"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoSaver"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Upgrade to Economy Saver to enjoy more baggage allowance, earn more Skyward Miles and be eligible to upgrade using your Miles."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Saver includes:\n\n• Seat selection available for a fee\n• Earn 0.3 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Eligible to upgrade with Skywards Miles at check-in\n• Changes are not permitted or for a fee\n• Non-refundable \n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "The best regular fares"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKARlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "651",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T09:55:00.000+05:30",
+									"ArrivalTime": "2024-11-28T12:55:00.000+04:00",
+									"FlightTime": "270",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKA7ovvAAAAAA==",
+						"TravelTime": "P0DT4H40M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "L",
+								"FareInfoRef": {
+									"KEB63LUqWDKAymvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAymvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKATlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAymvvAAAAAA==",
+										"FareBasis": "LAAOPLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR64400",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5PCxrHdWoTUUjgMwS78/xmkHUhESuzEkRPvvVIPIjz6/xjwHlJGfSxAhVrG1wyVkYRYt4FUQQnhdi9ZsJvoyaTa5R2lL0YX1QDJnXWXWmDrdbnO3as5kxS002jUBviRdDFaQ1xLXpXOTUqOz6/ICfbrB9PAK+4="
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1354479",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKArpvvAAAAAA==",
+											"Name": "Economy Saver",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Saver"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoSaver"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Upgrade to Economy Saver to enjoy more baggage allowance, earn more Skyward Miles and be eligible to upgrade using your Miles."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Saver includes:\n\n• Seat selection available for a fee\n• Earn 0.3 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Eligible to upgrade with Skywards Miles at check-in\n• Changes are not permitted or for a fee\n• Non-refundable \n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "The best regular fares"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKATlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "649",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T02:45:00.000+05:30",
+									"ArrivalTime": "2024-11-28T05:55:00.000+04:00",
+									"FlightTime": "280",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKA9ovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR82693",
+		"BasePrice": "USD216.00",
+		"ApproximateBasePrice": "LKR64400",
+		"Taxes": "LKR18293",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAzmvvAAAAAA==",
+				"TotalPrice": "LKR82693",
+				"BasePrice": "USD216.00",
+				"ApproximateTotalPrice": "LKR82693",
+				"ApproximateBasePrice": "LKR64400",
+				"Taxes": "LKR18293",
+				"PlatingCarrier": "EK",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKA2mvvAAAAAA==",
+						"TravelTime": "P0DT7H0M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "L",
+								"FareInfoRef": {
+									"KEB63LUqWDKAymvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAymvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAKlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAymvvAAAAAA==",
+										"FareBasis": "LAAOPLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR64400",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5PCxrHdWoTUUjgMwS78/xmkHUhESuzEkRPvvVIPIjz6/xjwHlJGfSxAhVrG1wyVkYRYt4FUQQnhdi9ZsJvoyaTa5R2lL0YX1QDJnXWXWmDrdbnO3as5kxS002jUBviRdDFaQ1xLXpXOTUqOz6/ICfbrB9PAK+4="
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1354479",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKArpvvAAAAAA==",
+											"Name": "Economy Saver",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Saver"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoSaver"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Upgrade to Economy Saver to enjoy more baggage allowance, earn more Skyward Miles and be eligible to upgrade using your Miles."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Saver includes:\n\n• Seat selection available for a fee\n• Earn 0.3 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Eligible to upgrade with Skywards Miles at check-in\n• Changes are not permitted or for a fee\n• Non-refundable \n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "The best regular fares"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAKlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "2455",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T10:30:00.000+05:30",
+									"ArrivalTime": "2024-11-28T16:00:00.000+04:00",
+									"FlightTime": "420",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "7M9",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"NumberOfStops": "1",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKA4mvvAAAAAA==",
+						"TravelTime": "P0DT7H20M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "L",
+								"FareInfoRef": {
+									"KEB63LUqWDKAymvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAymvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAVlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAymvvAAAAAA==",
+										"FareBasis": "LAAOPLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR64400",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5PCxrHdWoTUUjgMwS78/xmkHUhESuzEkRPvvVIPIjz6/xjwHlJGfSxAhVrG1wyVkYRYt4FUQQnhdi9ZsJvoyaTa5R2lL0YX1QDJnXWXWmDrdbnO3as5kxS002jUBviRdDFaQ1xLXpXOTUqOz6/ICfbrB9PAK+4="
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1354479",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKArpvvAAAAAA==",
+											"Name": "Economy Saver",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Saver"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoSaver"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Upgrade to Economy Saver to enjoy more baggage allowance, earn more Skyward Miles and be eligible to upgrade using your Miles."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Saver includes:\n\n• Seat selection available for a fee\n• Earn 0.3 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Eligible to upgrade with Skywards Miles at check-in\n• Changes are not permitted or for a fee\n• Non-refundable \n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "The best regular fares"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAVlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "653",
+									"Origin": "CMB",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T20:15:00.000+05:30",
+									"ArrivalTime": "2024-11-29T02:05:00.000+04:00",
+									"FlightTime": "440",
+									"Distance": "2043",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"NumberOfStops": "1",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKA+ovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR99144",
+		"BasePrice": "USD212.00",
+		"ApproximateBasePrice": "LKR63200",
+		"Taxes": "LKR35944",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKA7mvvAAAAAA==",
+				"TotalPrice": "LKR99144",
+				"BasePrice": "USD212.00",
+				"ApproximateTotalPrice": "LKR99144",
+				"ApproximateBasePrice": "LKR63200",
+				"Taxes": "LKR35944",
+				"PlatingCarrier": "QR",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKADnvvAAAAAA==",
+						"TravelTime": "P0DT7H25M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAZlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAZlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "663",
+									"Origin": "CMB",
+									"Destination": "DOH",
+									"DepartureTime": "2024-11-28T04:25:00.000+05:30",
+									"ArrivalTime": "2024-11-28T07:00:00.000+03:00",
+									"FlightTime": "305",
+									"Distance": "2245",
+									"ETicketability": "Yes",
+									"Equipment": "788",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAblvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAblvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "1006",
+									"Origin": "DOH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T08:00:00.000+03:00",
+									"ArrivalTime": "2024-11-28T10:20:00.000+04:00",
+									"FlightTime": "80",
+									"Distance": "229",
+									"ETicketability": "Yes",
+									"Equipment": "359",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAGnvvAAAAAA==",
+						"TravelTime": "P0DT8H25M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAdlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAdlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "659",
+									"Origin": "CMB",
+									"Destination": "DOH",
+									"DepartureTime": "2024-11-28T03:25:00.000+05:30",
+									"ArrivalTime": "2024-11-28T06:00:00.000+03:00",
+									"FlightTime": "305",
+									"Distance": "2245",
+									"ETicketability": "Yes",
+									"Equipment": "333",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAblvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAblvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "1006",
+									"Origin": "DOH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T08:00:00.000+03:00",
+									"ArrivalTime": "2024-11-28T10:20:00.000+04:00",
+									"FlightTime": "80",
+									"Distance": "229",
+									"ETicketability": "Yes",
+									"Equipment": "359",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAJnvvAAAAAA==",
+						"TravelTime": "P0DT9H50M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAflvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAflvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "655",
+									"Origin": "CMB",
+									"Destination": "DOH",
+									"DepartureTime": "2024-11-28T19:30:00.000+05:30",
+									"ArrivalTime": "2024-11-28T22:05:00.000+03:00",
+									"FlightTime": "305",
+									"Distance": "2245",
+									"ETicketability": "Yes",
+									"Equipment": "332",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAhlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAhlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "1002",
+									"Origin": "DOH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T01:30:00.000+03:00",
+									"ArrivalTime": "2024-11-29T03:50:00.000+04:00",
+									"FlightTime": "80",
+									"Distance": "229",
+									"ETicketability": "Yes",
+									"Equipment": "351",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAMnvvAAAAAA==",
+						"TravelTime": "P0DT12H10M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAjlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAjlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "665",
+									"Origin": "CMB",
+									"Destination": "DOH",
+									"DepartureTime": "2024-11-28T10:15:00.000+05:30",
+									"ArrivalTime": "2024-11-28T12:50:00.000+03:00",
+									"FlightTime": "305",
+									"Distance": "2245",
+									"ETicketability": "Yes",
+									"Equipment": "332",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "N",
+								"FareInfoRef": {
+									"KEB63LUqWDKA6mvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA6mvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAllvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA6mvvAAAAAA==",
+										"FareBasis": "NJR4R1RO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR63200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTtEKwjAM/Jhx75dsxflWt26IYMWgYF/8/88wbRUMJHfJhUtijEqdRBjifwx4D3dDfq5Ahnqm1wIVJSHeFZDq5GKTid3QTXR2KTe5o7TFdNxmB+zcQ5dqoLS6XpfmVZ1JCuppVOoD/Mh2dppP6WGFgePoM/1KPMA//QCOIyuG"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1558620",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAhpvvAAAAAA==",
+											"Name": "ECONOMY CLASSIC",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Classic"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECLASSIC"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Benefit from more checked baggage allowance and more Q miles"
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic includes                                                                                         \n- 25kg checked baggage                                                                                     - Carry on 7kg (1 piece)                                                                                                   \n- 50% Qmiles accumulation                                                                                                                                                 \n- Refund to original form of payment (chargeable)                                                                                                                                       - Upgrade with Qmiles  \n- 1 Date Change permitted, chargeable from 2nd Change                                                                                  \n                                                                                                                       • Please note that if the flight is operated by another airline then the on-board product or service maybe different to that described above."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Classic"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAllvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "QR",
+									"FlightNumber": "1014",
+									"Origin": "DOH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T18:35:00.000+03:00",
+									"ArrivalTime": "2024-11-28T20:55:00.000+04:00",
+									"FlightTime": "80",
+									"Distance": "229",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKA/ovvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR109837",
+		"BasePrice": "USD277.00",
+		"ApproximateBasePrice": "LKR82600",
+		"Taxes": "LKR27237",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAQnvvAAAAAA==",
+				"TotalPrice": "LKR109837",
+				"BasePrice": "USD277.00",
+				"ApproximateTotalPrice": "LKR109837",
+				"ApproximateBasePrice": "LKR82600",
+				"Taxes": "LKR27237",
+				"PlatingCarrier": "EK",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAUnvvAAAAAA==",
+						"TravelTime": "P0DT8H15M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAXlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAXlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "653",
+									"Origin": "CMB",
+									"Destination": "MLE",
+									"DepartureTime": "2024-11-28T20:15:00.000+05:30",
+									"ArrivalTime": "2024-11-28T21:25:00.000+05:00",
+									"FlightTime": "100",
+									"Distance": "484",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAnlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAnlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "2211",
+									"Origin": "MLE",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T23:30:00.000+05:00",
+									"ArrivalTime": "2024-11-29T03:00:00.000+04:00",
+									"FlightTime": "270",
+									"Distance": "1885",
+									"ETicketability": "Yes",
+									"Equipment": "7M8",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAXnvvAAAAAA==",
+						"TravelTime": "P0DT12H35M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAIlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAIlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "2455",
+									"Origin": "CMB",
+									"Destination": "MLE",
+									"DepartureTime": "2024-11-28T10:30:00.000+05:30",
+									"ArrivalTime": "2024-11-28T11:30:00.000+05:00",
+									"FlightTime": "90",
+									"Distance": "484",
+									"ETicketability": "Yes",
+									"Equipment": "7M9",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAplvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAplvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "661",
+									"Origin": "MLE",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T18:20:00.000+05:00",
+									"ArrivalTime": "2024-11-28T21:35:00.000+04:00",
+									"FlightTime": "255",
+									"Distance": "1885",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAanvvAAAAAA==",
+						"TravelTime": "P0DT17H35M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAXlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAXlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "653",
+									"Origin": "CMB",
+									"Destination": "MLE",
+									"DepartureTime": "2024-11-28T20:15:00.000+05:30",
+									"ArrivalTime": "2024-11-28T21:25:00.000+05:00",
+									"FlightTime": "100",
+									"Distance": "484",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKArlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKArlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "657",
+									"Origin": "MLE",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T09:05:00.000+05:00",
+									"ArrivalTime": "2024-11-29T12:20:00.000+04:00",
+									"FlightTime": "255",
+									"Distance": "1885",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAdnvvAAAAAA==",
+						"TravelTime": "P0DT18H55M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAXlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAXlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "653",
+									"Origin": "CMB",
+									"Destination": "MLE",
+									"DepartureTime": "2024-11-28T20:15:00.000+05:30",
+									"ArrivalTime": "2024-11-28T21:25:00.000+05:00",
+									"FlightTime": "100",
+									"Distance": "484",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAtlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAtlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "2249",
+									"Origin": "MLE",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T10:05:00.000+05:00",
+									"ArrivalTime": "2024-11-29T13:40:00.000+04:00",
+									"FlightTime": "275",
+									"Distance": "1885",
+									"ETicketability": "Yes",
+									"Equipment": "7M8",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAgnvvAAAAAA==",
+						"TravelTime": "P0DT19H20M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAXlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAXlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "653",
+									"Origin": "CMB",
+									"Destination": "MLE",
+									"DepartureTime": "2024-11-28T20:15:00.000+05:30",
+									"ArrivalTime": "2024-11-28T21:25:00.000+05:00",
+									"FlightTime": "100",
+									"Distance": "484",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "K",
+								"FareInfoRef": {
+									"KEB63LUqWDKAPnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAPnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAvlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAPnvvAAAAAA==",
+										"FareBasis": "KSSOSLK1",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwjAMe8zku5OCyrFs3YRUKIeCxC78/xkkrSYRKYkTW05SSko9ifCc/mPCd1oL6nsBKtQyf2ZojCTEph2kCkprz3YvgmGiF6Nqp0eXLswhqzVssnFQHth7XR6ze3VnkgI/DYe2wAHWm8F6zS87RoYQdci9RtinP4/+K20="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1354478",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAvpvvAAAAAA==",
+											"Name": "Economy Flex",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Flex"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "EcoFlex"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex lets you choose your seats for free, and you can enjoy more baggage allowance and more flexibility to change your booking."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Economy Flex includes:\n\n• Free seat selection and paid seat selection\n• Earn 0.7 Skywards Mile for every mile flown\n• Checked baggage allowance\n• Cabin baggage 1 bag up to 7kg\n• Regional multicourse dining\n• Complimentary alcoholic and non-alcoholic drinks\n• Up to 5,000 channels of entertainment\n• Free unlimited online chat messaging for Emirates Skywards Gold members \n• Buy great value Wi-Fi plans\n• Changes permitted for a fee \n• Refunds permitted for a fee\n\nPlease refer to the terms and conditions of the fare\n• Please note that if the flight is operated by another airline then the onboard product or service will vary. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Includes rebooking or refunds against a fee, and seat reservation"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAvlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "EK",
+									"FlightNumber": "659",
+									"Origin": "MLE",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T10:55:00.000+05:00",
+									"ArrivalTime": "2024-11-29T14:05:00.000+04:00",
+									"FlightTime": "250",
+									"Distance": "1885",
+									"ETicketability": "Yes",
+									"Equipment": "77W",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKAApvvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR118176",
+		"BasePrice": "USD277.00",
+		"ApproximateBasePrice": "LKR82600",
+		"Taxes": "LKR35576",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAknvvAAAAAA==",
+				"TotalPrice": "LKR118176",
+				"BasePrice": "USD277.00",
+				"ApproximateTotalPrice": "LKR118176",
+				"ApproximateBasePrice": "LKR82600",
+				"Taxes": "LKR35576",
+				"PlatingCarrier": "GF",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAqnvvAAAAAA==",
+						"TravelTime": "P0DT12H5M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "V",
+								"FareInfoRef": {
+									"KEB63LUqWDKAjnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAjnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAxlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAjnvvAAAAAA==",
+										"FareBasis": "VBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTssOAiEM/JjN3IciQW8I+MoiB7Ma97L//xkW0MQm7Uw7zbQhBKHsjKEL/zFhmy5n1GcCKkQzvyPEexJGuxWkGLxiuS22zBgmslepdnmg6YvZZlFAknwYUgusvaZ7bF7dmaRBO41GdYAfOV2V1mNeyhwftNY5R1++Ij301w/lLiwY"
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAxlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "145",
+									"Origin": "CMB",
+									"Destination": "BAH",
+									"DepartureTime": "2024-11-28T17:00:00.000+05:30",
+									"ArrivalTime": "2024-11-28T22:10:00.000+03:00",
+									"FlightTime": "460",
+									"Distance": "2332",
+									"ETicketability": "Yes",
+									"Equipment": "32Q",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"NumberOfStops": "1",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "V",
+								"FareInfoRef": {
+									"KEB63LUqWDKAjnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAjnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKA0lvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAjnvvAAAAAA==",
+										"FareBasis": "VBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTssOAiEM/JjN3IciQW8I+MoiB7Ma97L//xkW0MQm7Uw7zbQhBKHsjKEL/zFhmy5n1GcCKkQzvyPEexJGuxWkGLxiuS22zBgmslepdnmg6YvZZlFAknwYUgusvaZ7bF7dmaRBO41GdYAfOV2V1mNeyhwftNY5R1++Ij301w/lLiwY"
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKA0lvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "500",
+									"Origin": "BAH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T01:20:00.000+03:00",
+									"ArrivalTime": "2024-11-29T03:35:00.000+04:00",
+									"FlightTime": "75",
+									"Distance": "300",
+									"ETicketability": "Yes",
+									"Equipment": "32N",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKAtnvvAAAAAA==",
+						"TravelTime": "P1DT7H5M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "V",
+								"FareInfoRef": {
+									"KEB63LUqWDKAjnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAjnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAxlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAjnvvAAAAAA==",
+										"FareBasis": "VBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTssOAiEM/JjN3IciQW8I+MoiB7Ma97L//xkW0MQm7Uw7zbQhBKHsjKEL/zFhmy5n1GcCKkQzvyPEexJGuxWkGLxiuS22zBgmslepdnmg6YvZZlFAknwYUgusvaZ7bF7dmaRBO41GdYAfOV2V1mNeyhwftNY5R1++Ij301w/lLiwY"
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAxlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "145",
+									"Origin": "CMB",
+									"Destination": "BAH",
+									"DepartureTime": "2024-11-28T17:00:00.000+05:30",
+									"ArrivalTime": "2024-11-28T22:10:00.000+03:00",
+									"FlightTime": "460",
+									"Distance": "2332",
+									"ETicketability": "Yes",
+									"Equipment": "32Q",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"NumberOfStops": "1",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "V",
+								"FareInfoRef": {
+									"KEB63LUqWDKAjnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAjnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKA2lvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAjnvvAAAAAA==",
+										"FareBasis": "VBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR82600",
+										"FareRuleKey": {
+											"value": "gws-eJxNTssOAiEM/JjN3IciQW8I+MoiB7Ma97L//xkW0MQm7Uw7zbQhBKHsjKEL/zFhmy5n1GcCKkQzvyPEexJGuxWkGLxiuS22zBgmslepdnmg6YvZZlFAknwYUgusvaZ7bF7dmaRBO41GdYAfOV2V1mNeyhwftNY5R1++Ij301w/lLiwY"
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKA2lvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "512",
+									"Origin": "BAH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T20:20:00.000+03:00",
+									"ArrivalTime": "2024-11-29T22:35:00.000+04:00",
+									"FlightTime": "75",
+									"Distance": "300",
+									"ETicketability": "Yes",
+									"Equipment": "320",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKABpvvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR130176",
+		"BasePrice": "USD317.00",
+		"ApproximateBasePrice": "LKR94600",
+		"Taxes": "LKR35576",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAxnvvAAAAAA==",
+				"TotalPrice": "LKR130176",
+				"BasePrice": "USD317.00",
+				"ApproximateTotalPrice": "LKR130176",
+				"ApproximateBasePrice": "LKR94600",
+				"Taxes": "LKR35576",
+				"PlatingCarrier": "GF",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKA3nvvAAAAAA==",
+						"TravelTime": "P0DT20H40M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "Q",
+								"FareInfoRef": {
+									"KEB63LUqWDKAwnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAwnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAxlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAwnvvAAAAAA==",
+										"FareBasis": "QBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR94600",
+										"FareRuleKey": {
+											"value": "gws-eJxNjt0OwjAIhR9mOfcHalO9q239y2oTzUzczd7/MWSrJpIABz4CxBiVuhOhj/82YBkuZ7RXBhrUvLwTnAQSYtUMUgWPVG+TqyP6Et0bahvuWbbB4opaQtZy6Gg1zFvM92SsbyYpWE9jldbAT5yuJtuxTHVMTzrnvWeoX8gA+/UD3h4sCQ=="
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAxlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "145",
+									"Origin": "CMB",
+									"Destination": "BAH",
+									"DepartureTime": "2024-11-28T17:00:00.000+05:30",
+									"ArrivalTime": "2024-11-28T22:10:00.000+03:00",
+									"FlightTime": "460",
+									"Distance": "2332",
+									"ETicketability": "Yes",
+									"Equipment": "32Q",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"NumberOfStops": "1",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "Q",
+								"FareInfoRef": {
+									"KEB63LUqWDKAwnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAwnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKA4lvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAwnvvAAAAAA==",
+										"FareBasis": "QBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR94600",
+										"FareRuleKey": {
+											"value": "gws-eJxNjt0OwjAIhR9mOfcHalO9q239y2oTzUzczd7/MWSrJpIABz4CxBiVuhOhj/82YBkuZ7RXBhrUvLwTnAQSYtUMUgWPVG+TqyP6Et0bahvuWbbB4opaQtZy6Gg1zFvM92SsbyYpWE9jldbAT5yuJtuxTHVMTzrnvWeoX8gA+/UD3h4sCQ=="
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKA4lvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "504",
+									"Origin": "BAH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T09:50:00.000+03:00",
+									"ArrivalTime": "2024-11-29T12:10:00.000+04:00",
+									"FlightTime": "80",
+									"Distance": "300",
+									"ETicketability": "Yes",
+									"Equipment": "320",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					},
+					{
+						"Key": "KEB63LUqWDKA6nvvAAAAAA==",
+						"TravelTime": "P1DT5H5M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "Q",
+								"FareInfoRef": {
+									"KEB63LUqWDKAwnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAwnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAxlvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAwnvvAAAAAA==",
+										"FareBasis": "QBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR94600",
+										"FareRuleKey": {
+											"value": "gws-eJxNjt0OwjAIhR9mOfcHalO9q239y2oTzUzczd7/MWSrJpIABz4CxBiVuhOhj/82YBkuZ7RXBhrUvLwTnAQSYtUMUgWPVG+TqyP6Et0bahvuWbbB4opaQtZy6Gg1zFvM92SsbyYpWE9jldbAT5yuJtuxTHVMTzrnvWeoX8gA+/UD3h4sCQ=="
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAxlvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "145",
+									"Origin": "CMB",
+									"Destination": "BAH",
+									"DepartureTime": "2024-11-28T17:00:00.000+05:30",
+									"ArrivalTime": "2024-11-28T22:10:00.000+03:00",
+									"FlightTime": "460",
+									"Distance": "2332",
+									"ETicketability": "Yes",
+									"Equipment": "32Q",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"NumberOfStops": "1",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "Q",
+								"FareInfoRef": {
+									"KEB63LUqWDKAwnvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAwnvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKA6lvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAwnvvAAAAAA==",
+										"FareBasis": "QBLIT3LK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR94600",
+										"FareRuleKey": {
+											"value": "gws-eJxNjt0OwjAIhR9mOfcHalO9q239y2oTzUzczd7/MWSrJpIABz4CxBiVuhOhj/82YBkuZ7RXBhrUvLwTnAQSYtUMUgWPVG+TqyP6Et0bahvuWbbB4opaQtZy6Gg1zFvM92SsbyYpWE9jldbAT5yuJtuxTHVMTzrnvWeoX8gA+/UD3h4sCQ=="
+										},
+										"BaggageAllowance": "35 Kilograms",
+										"BrandID": "1584177",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAtpvvAAAAAA==",
+											"Name": "ECONOMY LIGHT",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Light"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ECOLITE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Light"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKA6lvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "GF",
+									"FlightNumber": "510",
+									"Origin": "BAH",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T18:10:00.000+03:00",
+									"ArrivalTime": "2024-11-29T20:35:00.000+04:00",
+									"FlightTime": "85",
+									"Distance": "300",
+									"ETicketability": "Yes",
+									"Equipment": "320",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKACpvvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR137330",
+		"BasePrice": "USD252.00",
+		"ApproximateBasePrice": "LKR75200",
+		"Taxes": "LKR62130",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKA+nvvAAAAAA==",
+				"TotalPrice": "LKR137330",
+				"BasePrice": "USD252.00",
+				"ApproximateTotalPrice": "LKR137330",
+				"ApproximateBasePrice": "LKR75200",
+				"Taxes": "LKR62130",
+				"PlatingCarrier": "MU",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKADovvAAAAAA==",
+						"TravelTime": "P0DT19H40M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "B",
+								"FareInfoRef": {
+									"KEB63LUqWDKA9nvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA9nvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKA8lvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA9nvvAAAAAA==",
+										"FareBasis": "VSE0WCSF",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR75200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwyAMe0zluxNA65GVgnYpl7bbetn/n7EAmrRIiZ04chJjVKoXYYj/MeEzbSfqmYAKtVzfCzQoCbHuAqmC5575SnvBMNHZpNrlgdIXUyjeAMUVGVILXL2mbWle3ZmkoJ1GozbAj+SH0Xpfj+yd0Ll+fUi8wT79ApDhK2A="
+										},
+										"BaggageAllowance": "NumberOfPieces 1",
+										"BrandID": "1575528",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAjpvvAAAAAA==",
+											"Name": "ECONOMY STANDARD",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Standard"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ES"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Standard"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKA8lvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "MU",
+									"FlightNumber": "9660",
+									"Origin": "CMB",
+									"Destination": "KMG",
+									"DepartureTime": "2024-11-28T01:05:00.000+05:30",
+									"ArrivalTime": "2024-11-28T07:55:00.000+08:00",
+									"FlightTime": "260",
+									"Distance": "1962",
+									"ETicketability": "Yes",
+									"Equipment": "73E",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "A",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "V",
+								"FareInfoRef": {
+									"KEB63LUqWDKA9nvvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKA9nvvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKA+lvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKA9nvvAAAAAA==",
+										"FareBasis": "VSE0WCSF",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR75200",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwyAMe0zluxNA65GVgnYpl7bbetn/n7EAmrRIiZ04chJjVKoXYYj/MeEzbSfqmYAKtVzfCzQoCbHuAqmC5575SnvBMNHZpNrlgdIXUyjeAMUVGVILXL2mbWle3ZmkoJ1GozbAj+SH0Xpfj+yd0Ll+fUi8wT79ApDhK2A="
+										},
+										"BaggageAllowance": "NumberOfPieces 1",
+										"BrandID": "1575528",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAjpvvAAAAAA==",
+											"Name": "ECONOMY STANDARD",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Standard"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "ES"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Standard"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKA+lvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "MU",
+									"FlightNumber": "755",
+									"Origin": "KMG",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T16:15:00.000+08:00",
+									"ArrivalTime": "2024-11-28T19:15:00.000+04:00",
+									"FlightTime": "420",
+									"Distance": "2969",
+									"ETicketability": "Yes",
+									"Equipment": "789",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "A",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKADpvvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR160790",
+		"BasePrice": "USD451.00",
+		"ApproximateBasePrice": "LKR134500",
+		"Taxes": "LKR26290",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAHovvAAAAAA==",
+				"TotalPrice": "LKR160790",
+				"BasePrice": "USD451.00",
+				"ApproximateTotalPrice": "LKR160790",
+				"ApproximateBasePrice": "LKR134500",
+				"Taxes": "LKR26290",
+				"PlatingCarrier": "SQ",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKANovvAAAAAA==",
+						"TravelTime": "P0DT19H30M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "Q",
+								"FareInfoRef": {
+									"KEB63LUqWDKAGovvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAGovvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAAmvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAGovvAAAAAA==",
+										"FareBasis": "Q15LKO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR134500",
+										"FareRuleKey": {
+											"value": "gws-eJxNjsEKwjAQRD+mzH1n26DH2MYitEaKCvbi/3+Gk0TBgWQmecvuxhjdfCAtxH91eHf3Dfk5ARmuk14jhkAzUK8dZk5sDOtyQ2vhR4FcYXPWstQnl2HmzIaKsNd7uo5ira+ZEWUwStQHfuF8Ucyn9FgXbdpLZA5faAdo0w9vGitP"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1532941",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAlpvvAAAAAA==",
+											"Name": "ECONOMY VALUE",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Value"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "YCLVALUE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Book into ECONOMY VALUE for refundable fare."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "ECONOMY VALUE FARE includes:\n\n- 25kg check-in baggage\n- Seat Selection is subjected to a fee\n- Earn 50% KrisFlyer miles\n- Upgrade with KrisFlyer miles not allowed\n- Complimentary changes to your booking (terms & conditions apply)\n- Refunds will be subjected to a fee (terms & conditions apply)\n\n*Fare offering may differ on codeshare flight bookings"
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Value"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAAmvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "SQ",
+									"FlightNumber": "469",
+									"Origin": "CMB",
+									"Destination": "SIN",
+									"DepartureTime": "2024-11-28T00:45:00.000+05:30",
+									"ArrivalTime": "2024-11-28T07:15:00.000+08:00",
+									"FlightTime": "240",
+									"Distance": "1709",
+									"ETicketability": "Yes",
+									"Equipment": "787",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "Q",
+								"FareInfoRef": {
+									"KEB63LUqWDKAGovvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAGovvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKACmvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAGovvAAAAAA==",
+										"FareBasis": "Q15LKO",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR134500",
+										"FareRuleKey": {
+											"value": "gws-eJxNjsEKwjAQRD+mzH1n26DH2MYitEaKCvbi/3+Gk0TBgWQmecvuxhjdfCAtxH91eHf3Dfk5ARmuk14jhkAzUK8dZk5sDOtyQ2vhR4FcYXPWstQnl2HmzIaKsNd7uo5ira+ZEWUwStQHfuF8Ucyn9FgXbdpLZA5faAdo0w9vGitP"
+										},
+										"BaggageAllowance": "25 Kilograms",
+										"BrandID": "1532941",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAlpvvAAAAAA==",
+											"Name": "ECONOMY VALUE",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Economy Value"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "YCLVALUE"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "Upsell",
+													"LanguageCode": "EN",
+													"Content": "Book into ECONOMY VALUE for refundable fare."
+												},
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "ECONOMY VALUE FARE includes:\n\n- 25kg check-in baggage\n- Seat Selection is subjected to a fee\n- Earn 50% KrisFlyer miles\n- Upgrade with KrisFlyer miles not allowed\n- Complimentary changes to your booking (terms & conditions apply)\n- Refunds will be subjected to a fee (terms & conditions apply)\n\n*Fare offering may differ on codeshare flight bookings"
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Economy Value"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKACmvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "SQ",
+									"FlightNumber": "494",
+									"Origin": "SIN",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-28T15:05:00.000+08:00",
+									"ArrivalTime": "2024-11-28T18:45:00.000+04:00",
+									"FlightTime": "460",
+									"Distance": "3636",
+									"ETicketability": "Yes",
+									"Equipment": "359",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKAEpvvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR189661",
+		"BasePrice": "USD551.00",
+		"ApproximateBasePrice": "LKR164300",
+		"Taxes": "LKR25361",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKARovvAAAAAA==",
+				"TotalPrice": "LKR189661",
+				"BasePrice": "USD551.00",
+				"ApproximateTotalPrice": "LKR189661",
+				"ApproximateBasePrice": "LKR164300",
+				"Taxes": "LKR25361",
+				"PlatingCarrier": "KU",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAYovvAAAAAA==",
+						"TravelTime": "P0DT11H50M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "L",
+								"FareInfoRef": {
+									"KEB63LUqWDKAQovvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAQovvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAEmvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAQovvAAAAAA==",
+										"FareBasis": "LOWULLK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR164300",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwzAIe0zlO5BG6zFrqTQpNLss2nrZ/58xkmzSLAEGW0BKSUhmZorpHxPeU64odQMKxENfK2JkIrB3J4iEYfdnNcsYO2RxpXR1VO4+DSpesM8ahtSAs+ftWF0bi4mI0S6jUR/gR/ab03LVh+VqFAJ/7S1f4I9+AHOgK44="
+										},
+										"BaggageAllowance": "NumberOfPieces 2",
+										"BrandID": "",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAbpvvAAAAAA==",
+											"Name": "",
+											"Titles": [],
+											"Texts": []
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAEmvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "KU",
+									"FlightNumber": "6000",
+									"Origin": "CMB",
+									"Destination": "KWI",
+									"DepartureTime": "2024-11-28T18:15:00.000+05:30",
+									"ArrivalTime": "2024-11-28T21:20:00.000+03:00",
+									"FlightTime": "335",
+									"Distance": "2573",
+									"ETicketability": "Yes",
+									"Equipment": "32B",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "P",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "L",
+								"FareInfoRef": {
+									"KEB63LUqWDKAQovvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAQovvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAGmvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAQovvAAAAAA==",
+										"FareBasis": "LOWULLK",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR164300",
+										"FareRuleKey": {
+											"value": "gws-eJxNTkEOwzAIe0zlO5BG6zFrqTQpNLss2nrZ/58xkmzSLAEGW0BKSUhmZorpHxPeU64odQMKxENfK2JkIrB3J4iEYfdnNcsYO2RxpXR1VO4+DSpesM8ahtSAs+ftWF0bi4mI0S6jUR/gR/ab03LVh+VqFAJ/7S1f4I9+AHOgK44="
+										},
+										"BaggageAllowance": "NumberOfPieces 2",
+										"BrandID": "",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAbpvvAAAAAA==",
+											"Name": "",
+											"Titles": [],
+											"Texts": []
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAGmvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "KU",
+									"FlightNumber": "677",
+									"Origin": "KWI",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T01:40:00.000+03:00",
+									"ArrivalTime": "2024-11-29T04:35:00.000+04:00",
+									"FlightTime": "115",
+									"Distance": "531",
+									"ETicketability": "Yes",
+									"Equipment": "32N",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "P",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"Key": "KEB63LUqWDKAFpvvAAAAAA==",
+		"passengerKey": {
+			"ADT": [
+				"UdWlrSPFT6e9RvfgSAwa1Q=="
+			]
+		},
+		"TotalPrice": "LKR265515",
+		"BasePrice": "USD572.00",
+		"ApproximateBasePrice": "LKR170600",
+		"Taxes": "LKR94915",
+		"AirPricingInfo": [
+			{
+				"Key": "KEB63LUqWDKAcovvAAAAAA==",
+				"TotalPrice": "LKR265515",
+				"BasePrice": "USD572.00",
+				"ApproximateTotalPrice": "LKR265515",
+				"ApproximateBasePrice": "LKR170600",
+				"Taxes": "LKR94915",
+				"PlatingCarrier": "TK",
+				"PricingMethod": "Guaranteed",
+				"Refundable": "true",
+				"PassengerType": "ADT"
+			}
+		],
+		"FlightOptions": [
+			{
+				"Options": [
+					{
+						"Key": "KEB63LUqWDKAjovvAAAAAA==",
+						"TravelTime": "P0DT17H0M0S",
+						"BookingInfo": [
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "H",
+								"FareInfoRef": {
+									"KEB63LUqWDKAbovvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAbovvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAImvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAbovvAAAAAA==",
+										"FareBasis": "HF2XOX",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR170600",
+										"FareRuleKey": {
+											"value": "gws-eJxNjtEKwyAMRT+m3PdrqnR7c2qlMOZgdGBf9v+fsagdLJDkJick8d4LxRpD5/9twmfa7yjvCBSIeqoBbhESRqsDpBhsWeqzYqyQi4LS4cimj0WXrpqQme1AzXD0GB9B2dhL0qAdRpPawE+sm8pyS/v6ouU867RIOCEX6Kdfg8UraA=="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1552438",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAnpvvAAAAAA==",
+											"Name": "FLEXIBLE",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Flexible"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "FX"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Flexible\n- Cabin bag and checked baggage\n- Changeable and refundable ticket\n- Meal/snack service \n• Please note that if the flight is operated by another airline, then the onboard product or service may be different to that described above. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Flexible"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAImvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "TK",
+									"FlightNumber": "733",
+									"Origin": "CMB",
+									"Destination": "IST",
+									"DepartureTime": "2024-11-28T21:55:00.000+05:30",
+									"ArrivalTime": "2024-11-29T04:35:00.000+03:00",
+									"FlightTime": "550",
+									"Distance": "3897",
+									"ETicketability": "Yes",
+									"Equipment": "333",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							},
+							{
+								"CabinClass": "Economy",
+								"BookingCode": "H",
+								"FareInfoRef": {
+									"KEB63LUqWDKAbovvAAAAAA==": {
+										"fareInfoRef": "KEB63LUqWDKAbovvAAAAAA=="
+									}
+								},
+								"SegmentRef": "KEB63LUqWDKAKmvvAAAAAA==",
+								"HostTokenRef": "",
+								"FareInfo": [
+									{
+										"Key": "KEB63LUqWDKAbovvAAAAAA==",
+										"FareBasis": "HF2XOX",
+										"PassengerTypeCode": "ADT",
+										"Origin": "CMB",
+										"Destination": "DXB",
+										"EffectiveDate": "2024-11-05T09:44:00.000+05:30",
+										"Amount": "LKR170600",
+										"FareRuleKey": {
+											"value": "gws-eJxNjtEKwyAMRT+m3PdrqnR7c2qlMOZgdGBf9v+fsagdLJDkJick8d4LxRpD5/9twmfa7yjvCBSIeqoBbhESRqsDpBhsWeqzYqyQi4LS4cimj0WXrpqQme1AzXD0GB9B2dhL0qAdRpPawE+sm8pyS/v6ouU867RIOCEX6Kdfg8UraA=="
+										},
+										"BaggageAllowance": "30 Kilograms",
+										"BrandID": "1552438",
+										"BrandDetails": {
+											"Key": "KEB63LUqWDKAnpvvAAAAAA==",
+											"Name": "FLEXIBLE",
+											"Titles": [
+												{
+													"Type": "External",
+													"LanguageCode": "EN",
+													"Text": "Flexible"
+												},
+												{
+													"Type": "Short",
+													"LanguageCode": "EN",
+													"Text": "FX"
+												}
+											],
+											"Texts": [
+												{
+													"Type": "MarketingAgent",
+													"LanguageCode": "EN",
+													"Content": "Flexible\n- Cabin bag and checked baggage\n- Changeable and refundable ticket\n- Meal/snack service \n• Please note that if the flight is operated by another airline, then the onboard product or service may be different to that described above. The content on this screen is for information purposes only. Please validate brands and ancillaries at Fare Quote."
+												},
+												{
+													"Type": "Strapline",
+													"LanguageCode": "EN",
+													"Content": "Flexible"
+												}
+											]
+										}
+									}
+								],
+								"Segment": {
+									"Key": "KEB63LUqWDKAKmvvAAAAAA==",
+									"Group": "0",
+									"Carrier": "TK",
+									"FlightNumber": "764",
+									"Origin": "IST",
+									"Destination": "DXB",
+									"DepartureTime": "2024-11-29T07:55:00.000+03:00",
+									"ArrivalTime": "2024-11-29T13:25:00.000+04:00",
+									"FlightTime": "270",
+									"Distance": "1870",
+									"ETicketability": "Yes",
+									"Equipment": "333",
+									"ChangeOfPlane": "false",
+									"ParticipantLevel": "Secure Sell",
+									"LinkAvailability": "true",
+									"PolledAvailabilityOption": "Cached status used. Polled avail exists",
+									"OptionalServicesIndicator": "false",
+									"AvailabilitySource": "Q",
+									"AvailabilityDisplayType": "Fare Shop/Optimal Shop"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
